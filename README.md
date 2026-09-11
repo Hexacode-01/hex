@@ -1,2 +1,3 @@
 # hex
-this is my git repositery
+this is my git Repositery
+author - himanshu pal
